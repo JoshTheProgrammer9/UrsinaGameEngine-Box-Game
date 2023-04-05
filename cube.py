@@ -1,7 +1,7 @@
 """
     Name: Joshua Ludolf
     Date: 04/04/2023
-    Purpose: Expermentation with Ursina Library
+    Purpose: Expermentation with Ursina Library/Building 3D Game (Get to the other side style)
 """
 
 import ursina
