@@ -1,3 +1,9 @@
+"""
+    Name: Joshua Ludolf
+    Date: 04/04/2023
+    Purpose: Expermentation with Ursina Library
+"""
+
 import ursina
 from ursina import *
 import random
